@@ -15,6 +15,7 @@ Das sieht nicht nur wie ein Error aus, sonder ist auch einer wie ein Blick in di
 Deswegen wurden die Kommentare am 27.11. mittels des cli tools [https://github.com/egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) gesichert, weshalb die formate der Rohdaten leicht unterschiedlich sind. ![Ja das runterladen hat ne Weile gedauert - Originalscreenshot](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Screenshots/Screenshot%20from%202021-11-27%2011-18-21.png)
 ## 2. Ergebnisse
 ### 2.1 vom 26.11. 
-Im Schnitt sind 42,9% der top tausend am meisten geliketen Kommentare frauenfeindlich, das sind ca. 2 von 5 Kommentaren ![Das sieht dann so aus](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Ergebnisse%20-%20Visualiert/26%2011%202021%20Grafik.png)
+Im Schnitt sind 42,9% der top tausend am meisten geliketen Kommentare frauenfeindlich, das sind ca. 2 von 5 Kommentaren ![Das sieht dann so aus ach du schreck](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Ergebnisse%20-%20Visualiert/26%2011%202021%20Grafik.png)
 ### 2.2 vom 27.11.
-Im Schnitt sind 32,3% der top tausend am meisten geliketen Kommentare frauenfeindlich, das sind ca. 1 von 3 Kommentaren ![Das sieht dann so aus](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Ergebnisse%20-%20Visualiert/27%2011%202021%20Grafik.png)
+Im Schnitt sind 32,3% der top tausend am meisten geliketen Kommentare frauenfeindlich, das sind ca. 1 von 3 Kommentaren ![Das sieht dann so aus - besser aber immer noch nicht gut](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Ergebnisse%20-%20Visualiert/27%2011%202021%20Grafik.png)
+In anderen Worten: nach 24h sieht die Kommentarsektion zwar deutlich besser aus, _gut_ ist allerdings was anderes.
