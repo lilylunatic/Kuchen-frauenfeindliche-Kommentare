@@ -17,5 +17,5 @@ Deswegen wurden die Kommentare am 27.11. mittels des cli tools [https://github.c
 ### 2.1 vom 26.11. 
 Im Schnitt sind 42,9% der top tausend am meisten geliketen Kommentare frauenfeindlich, das sind ca. 2 von 5 Kommentaren ![Das sieht dann so aus ach du schreck](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Ergebnisse%20-%20Visualiert/26%2011%202021%20Grafik.png)
 ### 2.2 vom 27.11.
-Im Schnitt sind 32,3% der top tausend am meisten geliketen Kommentare frauenfeindlich, das sind ca. 1 von 3 Kommentaren ![Das sieht dann so aus - besser aber immer noch weit weg von gut](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Ergebnisse%20-%20Visualiert/27%2011%202021%20Grafik.png)
+Im Schnitt sind 32,3% der top tausend am meisten geliketen Kommentare frauenfeindlich, das sind ca. 1 von 3 Kommentaren ![Das sieht dann so aus - besser aber weit weg von gut](https://github.com/Benji7103/Kuchen-frauenfeindliche-Kommentare/blob/main/Ergebnisse%20-%20Visualiert/27%2011%202021%20Grafik.png)
 In anderen Worten: nach 24h sieht die Kommentarsektion zwar deutlich besser aus, _gut_ ist allerdings was anderes.
